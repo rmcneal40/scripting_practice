@@ -31,3 +31,9 @@ ipconfig /all > output.txt
 
 #I need to create a textfile and put the networking info inside of it
 
+
+for i in $"{RobsStore[@]}" ;
+	do
+	echo $myNameIs "My name is $myNameIs and my favorite cothes are in my room on
+    the bed $i"
+done
