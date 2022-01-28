@@ -10,7 +10,7 @@ What scripts would you continue to improve if you had the time?
 What aspect of your shell scripting skillset do you hope to improve next?
 Publish it.
 
-# Weather-Application
+
 Using jQuery, this appliaction was made to help users anywhere in the world to be able to look up their weather.  
 
 ## Badge: ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
