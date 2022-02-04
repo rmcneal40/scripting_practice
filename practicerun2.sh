@@ -29,8 +29,6 @@ else
     bobsBack        
 fi
 }
-
-
 bobsBack
 echo "your number is  $number"
 

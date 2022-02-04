@@ -1,7 +1,8 @@
 #!/bin/bash
 # Given three integers (, , and ) representing the three
 #  sides of a triangle, identify whether the triangle is scalene, isosceles, or equilateral.
-echo "SCALENE, ISOSCELES, OR EQUILATERAL" 
+echo "SCALENE, ISOSCELES, OR EQUILATERAL"
+ 
 read a
 read b
 read c
