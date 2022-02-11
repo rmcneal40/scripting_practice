@@ -24,3 +24,19 @@ class Technology:
       + "I have a high " + records.gpa + "Im in the school of " + records.technology)
 p1 = Technology("A", "2022", "D", "3.0", "cyber")
 p1.myfunc()
+
+dairyProduct = {
+    "milk": "dairy",
+    "brand" : "geat value",
+    "lactose" : True,
+    "location" : "A-11"
+
+}
+
+floorplan = {
+    "bedroom": "right second floor"
+    "fitness": "topbrand"
+    "sittingroom": "top left floor"
+    "built": 2021
+
+}
