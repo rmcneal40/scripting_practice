@@ -1,0 +1,13 @@
+# How do I import subprocess in Python?
+# How To Use subprocess to Run External Programs in Python 3
+# Running an External Program. You can use the subprocess.run function to run an external program from your Python code. ...
+# Capturing Output From an External Program. ...
+# Raising an Exception on a Bad Exit Code. ...
+# Using timeout to Exit Programs Early. ...
+# Passing Input to Programs.
+
+from asyncio import subprocess
+
+
+subprocess.run
+import os
